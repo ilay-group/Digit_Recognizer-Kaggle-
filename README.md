@@ -22,9 +22,15 @@ git clone https://github.com/ilay-group/Digit_Recognizer-Kaggle-.git
 cd Digit_Recognizer-Kaggle-
 ```
 3. Создание виртуального окружения
-```python3 -m venv venv```
+```
+python3 -m venv venv
+```
 4. Активация виртуального окружения
-```source venv/bin/activate```
+```
+source venv/bin/activate
+```
 5. Установка зависимостей
-```pip install -r requirements.txt```
+```
+pip install -r requirements.txt
+```
 6. Работем
