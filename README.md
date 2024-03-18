@@ -13,10 +13,14 @@
 Набор обучающих данных (train.csv) имеет 785 столбцов. Первый столбец, называемый "label", - это цифра, которую нарисовал пользователь. Остальные столбцы содержат значения пикселей соответствующего изображения.
 
 ## Установка (Linux)
-1. Клонирование репозитория:
-    git clone https://github.com/ilay-group/Digit_Recognizer-Kaggle-.git
+1. Клонирование репозитория
+```
+git clone https://github.com/ilay-group/Digit_Recognizer-Kaggle-.git
+```
 2. Переход в директорию проекта
-```cd Digit_Recognizer-Kaggle-```
+```
+cd Digit_Recognizer-Kaggle-
+```
 3. Создание виртуального окружения
 ```python3 -m venv venv```
 4. Активация виртуального окружения
